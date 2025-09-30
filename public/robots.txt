@@ -1,0 +1,28 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://vapmarina.ae/sitemap.xml
+
+# Disallow admin and private areas
+Disallow: /dashboard/
+Disallow: /api/
+Disallow: /_next/
+Disallow: /admin/
+Disallow: /login/
+
+# Allow important pages
+Allow: /blog/
+Allow: /shop/
+Allow: /myle/
+Allow: /disposable/
+Allow: /e-juice/
+Allow: /nicotine-pouches/
+Allow: /iqos-iluma/
+Allow: /heets-and-terea/
+Allow: /juul/
+Allow: /vape-kits/
+Allow: /favicon.ico
+
+# Crawl delay
+Crawl-delay: 1 
