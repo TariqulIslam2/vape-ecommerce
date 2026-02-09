@@ -4,7 +4,8 @@ VapMarina E-Commerce is a **full-featured online shopping platform** developed f
 The project focuses on performance, scalability, SEO optimization, and a smooth user shopping experience.
 
 Built using **Next.js** and **MySQL**, the platform supports complete e-commerce functionality from product browsing to checkout.
-
+## Live Demo
+[View the live website here](https://vapmarina.ae)
 ---
 
 ## 🚀 Project Overview
