@@ -49,7 +49,6 @@ The website is also **SEO-optimized** to improve visibility and ranking on **Goo
 
 ### Frontend
 - **Next.js**
-- **React**
 - **Tailwind CSS / CSS**
 - **JavaScript**
 
