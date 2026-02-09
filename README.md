@@ -5,9 +5,9 @@ The project focuses on performance, scalability, SEO optimization, and a smooth 
 
 Built using **Next.js** and **MySQL**, the platform supports complete e-commerce functionality from product browsing to checkout.
 
-[View the live website here](https://vapmarina.ae)
----
 
+---
+[View the live website here](https://vapmarina.ae)
 ## 🚀 Project Overview
 
 This project was created to help a vape business establish a strong online presence and sell products efficiently.  
